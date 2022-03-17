@@ -1,3 +1,5 @@
+**This project has been archived. Please check out [tidwall/hashmap](https://github.com/tidwall/hashmap) for a fitter, happier, more productive hashmap library.**
+
 # rhh
 
 [![GoDoc](https://img.shields.io/badge/api-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/tidwall/rhh)
